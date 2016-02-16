@@ -1,0 +1,261 @@
+/* Medium Devices, Desktops */
+@media only screen and (max-width:1199px) { 
+    .slider-text h4 { font-size: 34px }
+    .slider-text h2 { font-size: 42px }
+    .slider-text {
+        height: 160px;
+        width: 570px;
+        padding-top: 34px;
+    }
+    .slider-text-area { padding: 160px 0 }
+    .area-heading {
+        font-size: 34px;
+        margin-bottom: 60px;
+    }
+    .area-padding { padding: 50px 0 }
+    .product-area h2 {
+        font-size: 34px;
+        padding-bottom: 13px;
+        padding-top: 10px;
+    }
+    .product-area-2 h2 { font-size: 29px }
+    .product-area p { margin-top: 12px }
+    .btn {
+        font-size: 22px;
+        padding: 7px 30px;
+    }
+    .product-area-2 img { height: 415px }
+    ul.payment-icon {
+        margin-top: 25px;
+        margin-bottom: 0;
+    }
+    .subscribe-area p { font-size: 17px }
+    .subscribe-form { height: 55px }
+    .subscribe-form .sc-btn {
+        font-size: 20px;
+        height: 70%;
+        top: 7px;
+        width: 25%;
+    }
+    ul.payment-icon li img { padding: 6px }
+    .subscribe-area { padding: 50px 0 }
+    .footer-padding { padding: 35px 0 }
+    .map { height: 450px }
+}
+/* Small Devices, Tablets */
+@media only screen and (max-width:991px) { 
+    .mainmenu-area { height: 75px }
+    .mainmenu {
+        height: 75px;
+        padding-top: 10px;
+    }
+    .mainmenu-fixed {
+        padding: 0;
+        height: initial;
+    }
+    .navbar-brand img { height: 28px }
+    .slider-text-area { padding: 126px 0 }
+    .slider-text h4 { font-size: 30px }
+    .slider-text h2 { font-size: 35px }
+    .slider-text {
+        height: 115px;
+        width: 445px;
+        padding-top: 20px;
+    }
+    .area-padding { padding: 45px 0 }
+    .area-heading {
+        font-size: 30px;
+        margin-bottom: 55px;
+    }
+    .features-area a i {
+        font-size: 35px;
+        padding: 25px 30px;
+        border-radius: 8px;
+    }
+    .product-area h2 { font-size: 32px }
+    .product-area-2 h2 { font-size: 28px }
+    .product-area h4 { font-size: 16px }
+    .btn {
+        font-size: 20px;
+        padding: 5px 25px;
+    }
+    .btn-buy-1,
+    .btn-buy-2 { margin-top: 17px }
+    .single-benefit { margin-top: 12px }
+    .single-benefit h4 { padding-bottom: 10px }
+    .benefits-area img {
+        height: 300px;
+        margin-top: 30px;
+    }
+    ul.payment-icon li img { height: 50px }
+    .map { height: 400px }
+    .subscribe-area { padding: 40px 0 }
+    .subscribe-form { height: 50px }
+    .subscribe-form .sc-btn {
+        font-size: 17px;
+        height: 73%;
+        margin: 0;
+        top: 6px;
+        width: 29%;
+    }
+    .form-input.text-input { width: 88% }
+    .submit-button { width: 11.5% }
+    .footer-padding { padding: 25px 15px }
+}
+/* Extra Small Devices, Phones */
+@media only screen and (max-width:767px) { 
+    .mainmenu-area { height: 50px }
+    .mainmenu {
+        padding: 0;
+        height: initial;
+    }
+    a.navbar-brand img { height: 22px }
+    .slider-text-area { padding: 106px 0 }
+    .slider-text {
+        height: 90px;
+        width: 345px;
+        padding-top: 13px;
+    }
+    .slider-text h4 { font-size: 25px }
+    .slider-text h2 { font-size: 30px }
+    .area-padding { padding: 40px 0 }
+    .features-area.area-padding { padding-bottom: 10px }
+    .area-heading {
+        margin-bottom: 35px;
+        font-size: 26px;
+    }
+    .product-area h2 {
+        font-size: 26px;
+        padding-bottom: 5px;
+    }
+    .product-area-2 h2 { font-size: 25px }
+    .product-area h4 {
+        margin-bottom: 20px;
+        font-weight: 700;
+    }
+    .single-feature { padding: 0 50px }
+    .features-area a i {
+        font-size: 60px;
+        padding: 30px 35px;
+        border-radius: 10px;
+    }
+    .features-area a h2 {
+        padding-top: 22px;
+        font-size: 22px;
+        padding-bottom: 8px;
+    }
+    .single-feature p { padding-bottom: 30px }
+    .btn {
+        font-size: 18px;
+        padding: 4px 24px;
+    }
+    .btn-buy-1 { margin: 20px 0 }
+    .btn-buy-2 { margin-top: 15px }
+    .product-area img { height: 300px }
+    .benefits-area img {
+        height: 230px;
+        margin: 0;
+    }
+    .subscribe-form {
+        height: 50px;
+        width: 70%;
+        margin: auto;
+        text-align: left;
+    }
+    .subscribe-area { text-align: center }
+    .subscribe-area p { margin: auto auto 15px }
+    .map { height: 300px }
+    ul.payment-icon { margin-top: 20px }
+    .contact-area.area-padding { text-align: center }
+    .contact-area .area-heading {
+        background: url("../img/heading-bg.png") no-repeat scroll center bottom;
+        margin-bottom: 25px;
+    }
+    .single-contact {
+        width: 33%;
+        float: left;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .text-area { height: 140px }
+    .footer-padding { padding: 20px 15px }
+}
+/* Very Extra Small Devices, Phones */
+@media only screen and (max-width:479px) { 
+	.slider-text-area { padding: 70px 0 }
+    .slider-text {
+        height: 70px;
+        width: 250px;
+        padding-top: 11px;
+    }
+    .slider-text h4 { font-size: 20px }
+    .slider-text h2 { font-size: 24px }
+    .features-area a i {
+        border-radius: 8px;
+        font-size: 35px;
+        padding: 25px 30px;
+    }
+    a.standard-control {top: 20%}
+    .area-padding { padding: 30px 0 }
+    .area-heading {
+        margin-bottom: 30px;
+        font-size: 23px;
+    }
+    .product-area h4 { font-size: 14px }
+    .features-area a h2 { padding-top: 18px }
+    .single-feature p { padding-bottom: 20px }
+    .features-area a h2 { font-size: 20px }
+    .product-area h2 { font-size: 22px }
+    .product-area h4 {
+        font-size: 15px;
+        font-weight: 700;
+    }
+    .btn {
+        font-size: 16px;
+        padding: 4px 18px;
+    }
+    ul.payment-icon li img { height: 40px }
+    .subscribe-area { padding: 35px 0 }
+    .subscribe-form {
+        height: 47px;
+        width: 90%;
+    }
+    .subscribe-area p { font-size: 16px }
+    .subscribe-form .sc-btn { width: 35% }
+    .map { height: 280px }
+    .single-contact {
+        margin: auto auto 20px;
+        width: 80%;
+        float: none;
+    }
+    .contact-area h4 { font-size: 22px }
+    .form-input.text-input { width: 84% }
+    .submit-button { width: 15.5% }
+    .form-input { padding: 7px }
+}
+/* Custom, iPhone Retina */
+@media only screen and (max-width:319px) { 
+	 .slider-text-area { padding: 34px 0 }
+	 .slider-text h4 {font-size: 17px}
+	 .slider-text h2 {font-size: 20px}
+	 .slider-text {
+    height: 55px;
+    width: 199px;
+    padding-top: 7px;
+	}
+	 a.standard-control {top: 20%}
+    .product-area h2 { font-size: 22px }
+    .benefits-area img { height: 205px }
+    .subscribe-form {
+        height: 40px;
+        width: 100%;
+    }
+    .subscribe-form .sc-btn {
+        font-size: 16px;
+        height: 70%;
+        width: 35%;
+    }
+    .form-input.text-input { width: 80% }
+    .submit-button { width: 19.5% }
+    .map { height: 250px }
+}
