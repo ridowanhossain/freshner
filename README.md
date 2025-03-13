@@ -10,6 +10,8 @@
 <a href="http://demo.techogram.com/html/freshner" target="_blank">View Demo</a> • 
 <a href="https://github.com/ridowanhossain/freshner" target="_blank">GitHub Repo</a>
 
+**Created:** Tuesday, 16 February 2016
+
 <h1 align="center">
   <img src="img/logo.png" alt="Air Freshener Logo" width="30" height="30">
   <b>AIR FRESHENER</b>
