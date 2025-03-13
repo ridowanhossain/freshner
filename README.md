@@ -1,12 +1,32 @@
+<div align="center">
+
 # Air Freshener Website
 
-A modern, responsive website showcasing premium air freshener products with detailed information, interactive features, and elegant design.
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-3.3.5-7952B3.svg?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![jQuery](https://img.shields.io/badge/jQuery-1.11.3-0769AD.svg?style=flat&logo=jquery&logoColor=white)](https://jquery.com/)
+[![Font Awesome](https://img.shields.io/badge/Font_Awesome-Latest-528DD7.svg?style=flat&logo=font-awesome&logoColor=white)](https://fontawesome.com/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-## Overview
+<a href="http://demo.techogram.com/html/freshner" target="_blank">View Demo</a> • 
+<a href="https://github.com/ridowanhossain/freshner" target="_blank">GitHub Repo</a>
 
-This project is a fully responsive website template designed for air freshener products. It features a clean, modern design with interactive elements and comprehensive product information.
+<h1 align="center">
+  <img src="img/logo.png" alt="Air Freshener Logo" width="30" height="30">
+  <b>AIR FRESHENER</b>
+</h1>
+</div>
 
-## Features
+## ✨ Overview
+
+A modern, responsive website showcasing premium air freshener products with detailed information, interactive features, and elegant design. Perfect for businesses looking to establish a professional online presence in the air freshener industry.
+
+<div align="center">
+
+![Website Preview](img/slider1.jpg)
+
+</div>
+
+## 🚀 Features
 
 - **Responsive Design** - Optimized for all devices (mobile, tablet, desktop)
 - **Product Showcase** - High-quality product images with detailed descriptions
@@ -15,48 +35,48 @@ This project is a fully responsive website template designed for air freshener p
 - **Location Integration** - Google Maps integration for store locations
 - **Cross-browser Compatible** - Works seamlessly across modern browsers
 
-## Demo
+## 🖥️ Demo
 
-🌐 [View Live Demo](http://demo.techogram.com/html/freshner)
+Explore the live demo: [Air Freshener Demo](http://demo.techogram.com/html/freshner)
 
-## Quick Start
+## 📋 Website Sections
 
-```bash
-# Clone the repository
-git clone https://github.com/ridowanhossain/freshner.git
+- Hero Slider
+- Product Features
+- Product Details
+- Payment Options
+- Store Locations
+- Contact Information
 
-# Navigate to project directory
-cd freshner
+## 📦 Installation
 
-# Open in browser
-start index.html  # Windows
-open index.html   # macOS
-xdg-open index.html  # Linux
-```
+1. Clone this repository
+   ```bash
+   git clone https://github.com/ridowanhossain/freshner.git
+   ```
 
-## Directory Structure
+2. Navigate to the project folder
+   ```bash
+   cd freshner
+   ```
+
+3. Open `index.html` in your browser
+
+## 🛠️ Project Structure
 
 ```
 freshner/
-├── css/
+├── css/              # CSS stylesheets
 │   ├── bootstrap.min.css
 │   ├── font-awesome.min.css
 │   ├── main.css
 │   ├── normalize.css
 │   ├── responsive.css
 │   └── slicknav.css
-├── fonts/
-│   ├── FontAwesome.otf
-│   ├── fontawesome-webfont.*
-│   └── glyphicons-halflings-regular.*
-├── img/
-│   ├── product images
-│   ├── slider images
-│   └── payment icons
-├── js/
+├── fonts/            # Font files
+├── img/              # Website images
+├── js/               # JavaScript files
 │   ├── vendor/
-│   │   ├── jquery-1.11.3.min.js
-│   │   └── modernizr-2.8.3.min.js
 │   ├── bootstrap.min.js
 │   ├── jquery.easing.min.js
 │   ├── main.js
@@ -67,7 +87,7 @@ freshner/
 └── README.md
 ```
 
-## Technologies
+## 📚 Technologies
 
 - HTML5
 - CSS3
@@ -76,21 +96,27 @@ freshner/
 - Font Awesome
 - Google Maps API
 
-## Browser Support
+## 🌐 Browser Support
 
 - Chrome (latest)
 - Firefox (latest)
 - Safari (latest)
 - Edge (latest)
 
-## License
-
-This project is licensed under the MIT License.
-
-## Author
+## ✍️ Author
 
 [Ridowan Hossain](https://github.com/ridowanhossain)
 
+## 📄 License
+
+This project is licensed under the MIT License.
+
 ---
 
-Last updated: February 16, 2016
+<div align="center">
+
+**[⬆ back to top](#air-freshener-website)**
+
+Made with ❤️ by [Ridowan Hossain](https://github.com/ridowanhossain)
+
+</div>
