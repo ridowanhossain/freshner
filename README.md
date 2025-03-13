@@ -14,7 +14,6 @@
 
 <h1 align="center">
   <img src="img/logo.png" alt="Air Freshener Logo">
-  <b>AIR FRESHENER</b>
 </h1>
 </div>
 
