@@ -13,7 +13,7 @@
 **Created:** Tuesday, 16 February 2016
 
 <h1 align="center">
-  <img src="img/logo.png" alt="Air Freshener Logo" width="30" height="30">
+  <img src="img/logo.png" alt="Air Freshener Logo">
   <b>AIR FRESHENER</b>
 </h1>
 </div>
