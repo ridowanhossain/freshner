@@ -1,73 +1,96 @@
-# 🌿 Air Freshener Website
+# Air Freshener Website
 
 A modern, responsive website showcasing premium air freshener products with detailed information, interactive features, and elegant design.
 
-![Air Freshener](img/product-1.png)
+## Overview
 
-## ✨ Demo
+This project is a fully responsive website template designed for air freshener products. It features a clean, modern design with interactive elements and comprehensive product information.
 
-Experience the live demo: [Air Freshener Website](http://demo.techogram.com/html/freshner)
+## Features
 
-## 🚀 Features
+- **Responsive Design** - Optimized for all devices (mobile, tablet, desktop)
+- **Product Showcase** - High-quality product images with detailed descriptions
+- **Interactive Elements** - Dynamic sliders and smooth animations
+- **Multiple Payment Options** - Support for various payment methods
+- **Location Integration** - Google Maps integration for store locations
+- **Cross-browser Compatible** - Works seamlessly across modern browsers
 
-- **Responsive Design** - Perfect viewing experience across all devices
-- **Product Showcase** - Detailed descriptions with high-quality images
-- **Interactive Elements** - Dynamic sliders and engaging animations
-- **Product Benefits** - Comprehensive feature highlights and benefits
-- **Multiple Payment Options** - Various payment method displays
-- **Modern Framework** - Built with Bootstrap 3.3.5 for reliability
-- **Smooth Animations** - Enhanced user experience with jQuery effects
+## Demo
 
-## 💻 Installation
+🌐 [View Live Demo](http://demo.techogram.com/html/freshner)
+
+## Quick Start
 
 ```bash
 # Clone the repository
 git clone https://github.com/ridowanhossain/freshner.git
 
-# Navigate to the project directory
+# Navigate to project directory
 cd freshner
 
-# Open the website in your default browser
+# Open in browser
 start index.html  # Windows
-# or
 open index.html   # macOS
-# or
 xdg-open index.html  # Linux
 ```
 
-No build process or dependencies installation required - simply clone and open in a browser!
-
-## 📁 Project Structure
+## Directory Structure
 
 ```
-├── css/               # CSS stylesheets
-├── fonts/             # Font files
-├── img/               # Image assets
-├── js/                # JavaScript files
-│   └── vendor/        # Third-party libraries
-└── index.html         # Main HTML file
+freshner/
+├── css/
+│   ├── bootstrap.min.css
+│   ├── font-awesome.min.css
+│   ├── main.css
+│   ├── normalize.css
+│   ├── responsive.css
+│   └── slicknav.css
+├── fonts/
+│   ├── FontAwesome.otf
+│   ├── fontawesome-webfont.*
+│   └── glyphicons-halflings-regular.*
+├── img/
+│   ├── product images
+│   ├── slider images
+│   └── payment icons
+├── js/
+│   ├── vendor/
+│   │   ├── jquery-1.11.3.min.js
+│   │   └── modernizr-2.8.3.min.js
+│   ├── bootstrap.min.js
+│   ├── jquery.easing.min.js
+│   ├── main.js
+│   ├── map-location.js
+│   ├── maplace-0.1.3.min.js
+│   └── plugins.js
+├── index.html
+└── README.md
 ```
 
-## 🛠️ Technologies Used
+## Technologies
 
-- **HTML5** - Modern semantic markup
-- **CSS3** - Advanced styling with animations
-- **Bootstrap 3.3.5** - Responsive grid system and components
-- **jQuery 1.11.3** - Enhanced JavaScript functionality
-- **Font Awesome** - Scalable vector icons
-- **Google Maps** - Location integration
+- HTML5
+- CSS3
+- Bootstrap 3.3.5
+- jQuery 1.11.3
+- Font Awesome
+- Google Maps API
 
-## 🌐 Browser Support
+## Browser Support
 
 - Chrome (latest)
 - Firefox (latest)
 - Safari (latest)
 - Edge (latest)
 
-## 📄 License
+## License
 
-This project is licensed under the MIT License - see the LICENSE file for details
+This project is licensed under the MIT License.
 
-## 📅 Created
+## Author
 
-This repository was last modified and uploaded to GitHub on: February 16, 2016, 9:36:56 PM
+[Ridowan Hossain](https://github.com/ridowanhossain)
+
+---
+
+Last updated: February 16, 2016
